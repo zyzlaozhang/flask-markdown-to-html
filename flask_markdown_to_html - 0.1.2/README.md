@@ -1,7 +1,7 @@
 # 1.导入方法
 
 ```cmd
-pip install flask-markdown
+pip install flask-markdown-to-html
 ```
 
 ```python
